@@ -1,0 +1,21 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Rectangle for Data Chart -->
+  <rect x="10" y="30" width="180" height="160" fill="#f0f0f0" />
+  
+  <!-- Bar Chart - Bars representing data -->
+  <rect x="30" y="90" width="20" height="100" fill="#4CAF50" />
+  <rect x="70" y="70" width="20" height="120" fill="#4CAF50" />
+  <rect x="110" y="40" width="20" height="150" fill="#4CAF50" />
+  <rect x="150" y="110" width="20" height="80" fill="#4CAF50" />
+
+  <!-- Python Logo - Left Side (Blue) -->
+  <path d="M85,40 C85,20 105,20 105,40 L105,60 Q105,80 85,80 Z" fill="#306998"/>
+  <circle cx="95" cy="50" r="4" fill="#FFFFFF"/>
+
+  <!-- Python Logo - Right Side (Yellow) -->
+  <path d="M115,120 C115,140 95,140 95,120 L95,100 Q95,80 115,80 Z" fill="#FFD43B"/>
+  <circle cx="105" cy="110" r="4" fill="#306998"/>
+
+  <!-- Python Logo Connecting Rectangle -->
+  <rect x="95" y="80" width="10" height="40" fill="#306998"/>
+</svg>
